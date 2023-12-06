@@ -1,5 +1,5 @@
 {
-  "name": "react-native-maps-draw",
+  "name": "@ycryptx/react-native-maps-draw",
   "version": "0.1.0",
   "description": "test",
   "main": "lib/commonjs/index",
@@ -161,6 +161,6 @@
   "dependencies": {
     "geolib": "3.3.3",
     "invariant": "^2.2.4",
-    "react-native-svg": "13.6.0"
+    "react-native-svg": "13.9.0"
   }
 }
